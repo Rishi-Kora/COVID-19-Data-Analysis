@@ -1,5 +1,5 @@
 # COVID-19-Data-Analysis
-Exploratory Data Analysis - COVID 19
+Exploratory Data Analysis - COVID 19<br>
 In this repository, I have taken COVID 19 data from UCI and I have done:
 
 1. Data Integration: Merging separate Red and White Wine datasets into a unified dataset for comprehensive analysis.<br>
